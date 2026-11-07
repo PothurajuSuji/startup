@@ -1,0 +1,6 @@
+{
+  "name": "HYPER LEARNX - Official Website & Management System",
+  "description": "Student skill-development platform offering 14-Day practical, activity-based training, student & school registrations, verification, and CEO management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
